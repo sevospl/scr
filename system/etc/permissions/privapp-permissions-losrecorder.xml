@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <!-- Additional permissions on top of privapp-permissions-platform.xml -->
+        
+    <privapp-permissions package="org.lineageos.recorder">
+        <permission name="android.permission.CAPTURE_SECURE_VIDEO_OUTPUT"/>
+        <permission name="android.permission.CAPTURE_VIDEO_OUTPUT"/>
+    </privapp-permissions>
+
+</permissions>
