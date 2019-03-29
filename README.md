@@ -1,4 +1,6 @@
 ## Changelog
+v1.1 - Updated to latest Magisk template.
+
 v1 - Initial Release.
 
 ## Description 
