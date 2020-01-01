@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "      LineageOS Recorder       "
+  ui_print "      OnePlus Screen Recorder       "
   ui_print "*******************************"
 }
 
