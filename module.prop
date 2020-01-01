@@ -1,6 +1,6 @@
-id=scr
-name=LOS Recorder
-version=v1.2
-versionCode=3
-author=crashoverride1995
-description=LineageOS Recorder with screenrecording priv-app permissions fixed in Oreo for ROMs not based on LineageOS.
+id=oprec
+name=OnePlus Screen Recorder
+version=v1.0
+versionCode=10
+author=sevosekpl
+description=OnePlus Recorder with screenrecording and internal audio support.
